@@ -1,4 +1,3 @@
-
 Given(/^the user go to inbound traveller page$/) do
   visit('https://www.bolttech.co.th/en/inbound-travel-insurance')
 end
